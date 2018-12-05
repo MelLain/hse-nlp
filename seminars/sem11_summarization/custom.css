@@ -1,0 +1,138 @@
+<style>
+div.text_block {
+    background-color: #fcf2f2;
+    border-color: #dFb5b4;
+    border-width: 1;
+    border-style: solid;
+    margin: 2px;
+    padding: 5px;
+    display: inline-block;
+    
+}
+div.index_block {
+    background-color: #99ff99;
+    border-color: #008000;
+    border-width: 1;
+    border-style: solid;
+    margin: 2px;
+    padding: 5px;
+    display: inline-block;
+    
+}
+
+p.raw_text {
+    background-color: #ffffff;
+    border-color: #ffffff;
+    border-width: 0;
+    border-style: solid;
+    margin: 2px;
+    padding: 5px;
+    display: inline-block;
+    text-indent: 1.5em;
+}
+
+p.highlighted_text {
+    background-color: #99ff99;
+    border-color: #99ff99;
+    border-width: 0.05;
+    border-style: solid;
+    margin: 0.5px;
+    padding: 0.5px;
+    display: inline-block;
+    text-indent: 0.0em;
+}
+
+div.file_frame {
+    background-color: #ffe6e6;
+    border-color: #cc0000;
+    border-width: 1;
+    border-style: solid;
+    margin: 2px;
+    padding: 5px;
+    display: inline-block;
+
+}
+
+
+b.index_font {
+    background-color: #ff9966;
+}
+
+b.text_font {
+    background-color: #33cccc;
+}
+
+div.frame {
+    background-color: #ffffe6;
+    border-color: #996600;
+    border-width: 1;
+    border-style: solid;
+    margin: 2px;
+    padding: 5px;
+    display: inline-block;
+}
+
+div.filename {
+    background-color: #ffffe6;
+    border-color: #996600;
+    border-width: 1;
+    border-style: solid;
+    margin: 2px;
+    padding: 5px;
+    display: inline-block;
+}
+
+span.change_text {
+    background-color: #ffffff;
+    border-color: #000000;
+    border-width: 1;
+    border-style: solid;
+    margin: 2px;
+    padding: 5px;
+    display: inline-block;
+}
+
+div.change_frame {
+    background-color: #fcf2f2;
+    border-color: #dFb5b4;
+    border-width: 1;
+    border-style: solid;
+    margin: 2px;
+    padding: 5px;
+    display: inline-block;
+    
+}
+div.data_frame {
+    background-color: #99ff99;
+    border-color: #008000;
+    border-width: 1;
+    border-style: solid;
+    margin: 2px;
+    padding: 5px;
+    display: inline-block;
+    
+}
+
+div.index_frame {
+    background-color: #ff9966;
+    border-color: #000000;
+    border-width: 1;
+    border-style: solid;
+    margin: 2px;
+    padding: 5px;
+    display: inline-block;
+    
+}
+
+div.text_frame {
+    background-color: #33cccc;
+    border-color: #000000;
+    border-width: 1;
+    border-style: solid;
+    margin: 2px;
+    padding: 5px;
+    display: inline-block;
+    
+}
+
+</style>
